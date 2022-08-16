@@ -1,0 +1,21 @@
+
+ypython:S116["VRename this field "verticalLayout" to match the regular expression ^[_a-z][_a-z0-9]*$.(¶Ç­èıÿÿÿÿ8Ñ¶óÅ—0
+vpython:S116"XRename this field "verticalLayout_3" to match the regular expression ^[_a-z][_a-z0-9]*$.(òá¬8Ğ¶óÅ—0
+npython:S116s"PRename this field "lineEdit" to match the regular expression ^[_a-z][_a-z0-9]*$.(É³™Á8Ñ¶óÅ—0
+vpython:S116 "XRename this field "horizontalLayout" to match the regular expression ^[_a-z][_a-z0-9]*$.(›‰½³8Ñ¶óÅ—0
+qpython:S116d"SRename this field "progressBar" to match the regular expression ^[_a-z][_a-z0-9]*$.(«Öó‹8Ğ¶óÅ—0
+xpython:S116Y"URename this field "centralWidget" to match the regular expression ^[_a-z][_a-z0-9]*$.(Àè¢Ëûÿÿÿÿ8Ñ¶óÅ—0
+vpython:S116"XRename this field "verticalLayout_4" to match the regular expression ^[_a-z][_a-z0-9]*$.(òÎ„Ì8Ñ¶óÅ—0
+vpython:S116"XRename this field "verticalLayout_2" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ï·ü¦8Ñ¶óÅ—0
+upython:S116^"RRename this field "gridLayout" to match the regular expression ^[_a-z][_a-z0-9]*$.(áÀ²úøÿÿÿÿ8Ğ¶óÅ—0
+vpython:S116€"RRename this field "listWidget" to match the regular expression ^[_a-z][_a-z0-9]*$.(ßÅ¾Šùÿÿÿÿ8Ğ¶óÅ—0
+ppython:S116p"RRename this field "pushButton" to match the regular expression ^[_a-z][_a-z0-9]*$.(ü¹Éç8Ñ¶óÅ—0
+python:S101"lRename class "Ui_Dir_view_window" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Šò–´úÿÿÿÿ8Ñ¶óÅ—0
+ypython:S117"[Rename this parameter "Dir_view_window" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºÌØ8Ñ¶óÅ—0
+~python:S117#"[Rename this local variable "spacerItem" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ışÿÿÿÿ8Ñ¶óÅ—0
+zpython:S117*"\Rename this local variable "spacerItem1" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹‡öÔ8Ñ¶óÅ—0
+python:S1173"\Rename this local variable "spacerItem2" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê•ù‘ûÿÿÿÿ8Ñ¶óÅ—0
+python:S117L"\Rename this local variable "spacerItem3" to match the regular expression ^[_a-z][a-z0-9_]*$.(î÷İüÿÿÿÿ8Ñ¶óÅ—0
+ipython:S100"KRename method "setupUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(ºÌØ8Ñ¶óÅ—0
+zpython:S117§"[Rename this parameter "Dir_view_window" to match the regular expression ^[_a-z][a-z0-9_]*$.(«Üå8Ñ¶óÅ—0
+ppython:S100§"QRename method "retranslateUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(«Üå8Ñ¶óÅ—0
