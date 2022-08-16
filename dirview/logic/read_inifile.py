@@ -3,9 +3,12 @@ import os
 
 
 def read_config():
-    url = os.path.dirname(os.path.abspath(__file__))  # 文件夹
     # url = os.path.abspath(__file__)  # 文件
-    url = os.path.join(url.split('dirview')[0], 'config\line_conf.ini')
+    # print(url)
+    url = os.path.dirname(os.path.abspath(__file__))  # 文件夹
+    # print(url)
+    url = os.path.join(url.split('dirview')[0], 'dirview\config\line_conf.ini')
+    # print(url)
     config = configparser.ConfigParser()
     config.read(url)
     item_list = config.items('baseconf')
